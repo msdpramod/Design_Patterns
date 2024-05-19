@@ -1,7 +1,7 @@
-#LOW LEVEL DESIGN 
+# LOW LEVEL DESIGN 
 
-##solid Principles
-- [Single Responsiblity Principle]()
+## solid Principles
+- [Single Responsibility Principle]()
 - [Open Closed Principle ]()
 - [Liskov Principle]()
 - [Integration Segregation Principle]()

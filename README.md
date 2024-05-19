@@ -1,6 +1,6 @@
-# LOW LEVEL DESIGN 
+# LOW-LEVEL DESIGN 
 
-## solid Principles
+## Solid Principles
 - [Single Responsibility Principle]()
 - [Open Closed Principle ]()
 - [Liskov Principle]()
